@@ -5,7 +5,11 @@ function Hero() {
   return (
     <>
     <section className="hero">
-        <div className="container"></div>
+        <div className="container">
+            <div className="hero-info">
+                
+            </div>
+        </div>
     </section>
     </>
   )
