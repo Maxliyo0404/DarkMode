@@ -7,6 +7,9 @@ function Header() {
         <div className="container">
             <div className="header-wrapper">
                 <a href="#"><img src="" alt="rasm" /></a>
+                <ul className="header-list">
+                    <li><a href="#"></a></li>
+                </ul>
             </div>
         </div>
     </div>
