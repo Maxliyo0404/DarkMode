@@ -9,6 +9,10 @@ function Header() {
                 <a href="#"><img src="" alt="rasm" /></a>
                 <ul className="header-list">
                     <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
                 </ul>
             </div>
         </div>
