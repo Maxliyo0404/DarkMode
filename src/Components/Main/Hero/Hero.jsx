@@ -4,7 +4,9 @@ import React from 'react'
 function Hero() {
   return (
     <>
-    <section className="hero"></section>
+    <section className="hero">
+        <div className="container"></div>
+    </section>
     </>
   )
 }
